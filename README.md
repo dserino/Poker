@@ -15,5 +15,5 @@ Details and Features:
 http://stackoverflow.com/questions/7813253/java-library-to-calculate-the-equity-of-texas-poker-hands
 http://stackoverflow.com/questions/42781958/how-does-a-recursive-correlated-expression-speed-up-distinct-queries
 http://stackoverflow.com/questions/10483993/faster-poker-hand-evaluation
-(9) Reading use input from argc and argv is unimportant becuase user input will come through the touchscreen.
+(9) Reading user input is not robust because future implmentations will come from a touch-screen, not a terminal.
 (10) Most of the details and features are driven from the World Series of Poker app on Android.
